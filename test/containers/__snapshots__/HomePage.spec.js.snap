@@ -3,7 +3,7 @@
 exports[`containers Home should render home page 1`] = `
 <div>
   <div
-    className="css-1l4w6pd"
+    className="css-12yvtzk-HomePage"
   >
     Electron-Mobx-Boilerplate
   </div>
